@@ -3,9 +3,6 @@ layout: page
 title: Academic
 ---
 
-#Academic Work
-
-
 As a PhD researcher at the <a href="http://www.wiv-isp.be/">Scientific Institute of Public Health Belgium</a> and <a href="http://www.kuleuven.be">Katholieke Universiteit Leuven</a> I study statistical methods and data visualisation techniques in <a href="https://en.wikipedia.org/wiki/Environmental_epidemiology">environmental epidemiology</a> and aim to use these tools to find new insights in disease aetiology. I am particularly interested in building correct statistical models in ecological studies - relating health outcomes and exposures on an areal level - and the tools to do this kind of studies in a generic, more automated way. 
 
 My PhD research consists of three main subjects:
